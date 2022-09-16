@@ -6,7 +6,7 @@ class Program{
             Console.WriteLine("2.for view shop co-founder information.");
             Console.WriteLine("3.for view employee information");
             Console.WriteLine("4.for view the store's income and expenses information.");
-            Console.WriteLine("Select the menu you want to view. : ");
+            Console.Write("Select the menu you want to view. : ");
             return Console.ReadLine();
         }
     public static void Main(string[] arge)
@@ -21,11 +21,11 @@ class Program{
             {
                 return number;
             }
-        throw new Exception("Please input Select the menu you want to view.");
+        throw new Exception("Please input menu you want to view.");
         }
         public static string convertscoretograde(int score)
         {
-            if (score > 4) { throw new Exception("Please input Select the menu you want to view 0 - 4"); }
+            if (score > 4) { throw new Exception("Please input menu you want to view 1 - 4"); }
             if (IsGradeA(score))
             {
                 Users users=new Users();
