@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.AssemblyInfo.cs
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\bin\Debug\net6.0\Quiz1.exe
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\bin\Debug\net6.0\Quiz1.deps.json
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\bin\Debug\net6.0\Quiz1.runtimeconfig.json
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\bin\Debug\net6.0\Quiz1.dll
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\bin\Debug\net6.0\Quiz1.pdb
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.dll
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\refint\Quiz1.dll
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.pdb
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\Quiz1.genruntimeconfig.cache
+C:\Users\MDT\Desktop\Deil\Quiz01\Quiz1\Code\obj\Debug\net6.0\ref\Quiz1.dll
